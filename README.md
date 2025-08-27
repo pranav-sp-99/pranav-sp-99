@@ -29,7 +29,8 @@ I'm a QA Engineer based in Bangalore, India 🇮🇳, with over 4 years of exper
     ![WebDriverIO](https://img.shields.io/badge/WebDriver.io-%23EA5906.svg?style=flat-square&logo=webdriverio&logoColor=white)
     ![Selenium](https://img.shields.io/badge/Selenium-%43B02A.svg?style=flat-square&logo=selenium&logoColor=white)
     ![Cucumber](https://img.shields.io/badge/Cucumber-%2328A745.svg?style=flat-square&logo=cucumber&logoColor=white)
-    ![TestNG](https://img.shields.io/badge/TestNG-%23E14633.svg?style=flat-square&logo=testng&logoColor=white) * **Other Tools & Platforms:**
+    ![TestNG](https://img.shields.io/badge/TestNG-%23E14633.svg?style=flat-square&logo=testng&logoColor=white)
+  * **Other Tools & Platforms:**
     ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
     ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white)
     ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
