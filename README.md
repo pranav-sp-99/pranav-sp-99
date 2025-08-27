@@ -49,12 +49,3 @@ I'm a QA Engineer based in Bangalore, India 🇮🇳, with over 4 years of exper
 </p>
 
 ---
-
-### ✨ Fun Facts:
-
-* 🎬 Animes Watched: 142+
-* 📚 Books Read: 9+
-* 🎮 Avid Gamer
-
----
-
