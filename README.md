@@ -4,7 +4,7 @@
   🧪 QA Engineer | Test Automation | UI/UX Design | JavaScript & TypeScript
 </p>
 
-I'm a QA Engineer based in Bangalore, India 🇮🇳, with over 3 years of experience, primarily focused on end-to-end testing for financial applications. I enjoy building robust automation frameworks using JavaScript, TypeScript, and Java with tools like Playwright and WebDriverIO.
+I'm a QA Engineer based in Bangalore, India 🇮🇳, with over 4 years of experience, primarily focused on end-to-end testing for financial applications. I enjoy building robust automation frameworks using JavaScript, TypeScript, and Java with tools like Playwright and WebDriverIO.
 
 ---
 
